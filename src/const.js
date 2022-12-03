@@ -11,7 +11,6 @@
  */
 
 var CONST = {
-
     /**
      * Phaser Release Version
      *
